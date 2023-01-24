@@ -14,3 +14,5 @@
 3.2. [Адаптивная типографика](adaptive-typography/)  
 3.3. [Breakpoints](breakpoints/)  
 3.4. [Адаптивные изображения](adaptive-images/)  
+
+Добавляю эмоджи
